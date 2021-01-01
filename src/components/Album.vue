@@ -32,4 +32,7 @@ export default {
     margin: 1rem 2rem;
     min-height: 250px;
 }
+.album-card .card-title {
+    font-size: 1.35rem;
+}
 </style>

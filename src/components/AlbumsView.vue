@@ -34,5 +34,9 @@ export default {
     margin-top: 2rem;
     font-size: 3rem;
 }
+.row {
+    width: 90%;
+    margin: 0 auto;
+}
 </style>
 
